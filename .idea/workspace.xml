@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/autograde.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/JobData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/TechJobs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main/job_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/TechJobsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/testCaseInsensitiveSearch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/testFindByValue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/testPrintJobs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/test/testPrintJobsNoResults.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JobData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TechJobs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/job_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TechJobsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testCaseInsensitiveSearch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testFindByValue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testPrintJobs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testPrintJobsNoResults.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6eaaa2cd-19f9-464f-bd86-75963629b343" />
+        <option name="url" value="https://github.com/allenjosh1983/techjobs-console-java-graded-17.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Qn6e2NCqVj233XTVZ3RW2TzDBN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging main",
+    "ignore.virus.scanning.warn.message": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tests in 'org.launchcode.techjobs.oo'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.launchcode.techjobs.oo.*&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'org.launchcode.techjobs.oo'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59ff47a6-ece6-4e2e-b777-6247aa1f282e" name="Changes" comment="" />
+      <created>1685977091317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685977091317</updated>
+    </task>
+    <servers />
+  </component>
+</project>
